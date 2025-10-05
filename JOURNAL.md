@@ -15,3 +15,9 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 I found a tetorial https://jams.hackclub.com/batch/usb-hub/part-1 and started looking at it also set up easyeda did not like start anything yet kinda or just learning some stuff based on the tetoral so yeah I found it in the old grounded tetorials and it seems to be pretty detailed![Screenshot 2025-10-04 114219.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzQ2LCJwdXIiOiJibG9iX2lkIn19--de5fdc14ef121fe2c5b71e5ec4d58a74265c3728/Screenshot%202025-10-04%20114219.png)
   
 
+## 10/5/2025 - Wiring  
+
+Started following the tetotrial and im kinda of learning along the way and im sort of gettting the hang of it though its not very like complex I guess I pretty much got some of the usb in and out female and male things placed and the like main brain thing and started wiring it ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjQyLCJwdXIiOiJibG9iX2lkIn19--7c5e6bbc757ff5e0e8acff7caea983661587e30c/image.png)
+
+  
+
